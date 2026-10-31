@@ -58,3 +58,9 @@ The project includes C# source code and its project configuration. Build output 
 Created by **Saul** (`scopeking0117-alt`).
 
 Grand Theft Auto IV is developed by Rockstar North and published by Rockstar Games. This project is an independent, unofficial fan modification and is not affiliated with or endorsed by Rockstar Games or Take-Two Interactive.
+
+## Additional Notes
+
+- **Pedestrians Only:** This mod specifically removes Niko Bellic's automatic pedestrian-shoving animation. It does not affect doors or Niko's interactions with them.
+- **Episodes from Liberty City:** The mod is intended to work with Grand Theft Auto IV, The Lost and Damned (TLAD), and The Ballad of Gay Tony (TBoGT).
+- **Compatibility:** TLAD and TBoGT compatibility is expected but has not yet been independently verified.
