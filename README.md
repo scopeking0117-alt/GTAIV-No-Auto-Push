@@ -9,7 +9,7 @@ In the unmodified game, Niko can automatically push pedestrians when moving into
 ## Features
 
 - Disables Niko's automatic pedestrian-shoving behavior.
-- Focuses on a small, targeted gameplay change rather than a broader combat overhaul.
+- Focuses on a small, targeted gameplay change.
 - Intended for single-player GTA IV on PC.
 
 ## Requirements
@@ -63,4 +63,8 @@ Grand Theft Auto IV is developed by Rockstar North and published by Rockstar Gam
 
 - **Pedestrians Only:** This mod specifically removes Niko Bellic's automatic pedestrian-shoving animation. It does not affect doors or Niko's interactions with them.
 - **Episodes from Liberty City:** The mod is intended to work with Grand Theft Auto IV, The Lost and Damned (TLAD), and The Ballad of Gay Tony (TBoGT).
-- **Compatibility:** TLAD and TBoGT compatibility is expected but has not yet been independently verified.
+- **Compatibility:** The mod should work with TLAD and TBoGT but has not yet been independently verified.
+
+## Gameplay Demonstration
+
+[Watch No Auto Push Peds gameplay demonstration on YouTube](YOUR_YOUTUBE_URL)
