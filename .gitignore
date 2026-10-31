@@ -1,0 +1,24 @@
+﻿# C# / .NET build output
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Compiled binaries
+*.asi
+*.dll
+*.exe
+*.pdb
+
+# Release archives
+*.zip
+*.7z
+*.rar
+
+# Temporary files
+*.tmp
+*.log

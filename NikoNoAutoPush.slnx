@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="NikoNoAutoPush.csproj" Id="b32d3a7d-125c-47a8-a368-8d1c4a7c66bc">
+    <Platform Solution="*|x86" Project="x86" />
+  </Project>
+</Solution>
