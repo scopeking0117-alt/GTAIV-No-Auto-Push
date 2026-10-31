@@ -67,4 +67,4 @@ Grand Theft Auto IV is developed by Rockstar North and published by Rockstar Gam
 
 ## Gameplay Demonstration
 
-[Watch No Auto Push Peds gameplay demonstration on YouTube](YOUR_YOUTUBE_URL)
+[![GTA IV — No Auto Push Peds Gameplay Demonstration](https://img.youtube.com/vi/HekvSrZJoPw/hqdefault.jpg)](https://youtu.be/HekvSrZJoPw)
